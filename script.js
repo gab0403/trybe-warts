@@ -9,7 +9,7 @@ function headerForm() {
         alert("Olá, Tryber!");
     }
     else {
-        alert("Email ou senha inválidos");
+        alert("Email ou senha inválidos.");
     }
 }
 
