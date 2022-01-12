@@ -33,3 +33,9 @@ main {
 #subtitulo {
   display: flex;
 }
+
+#family-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
