@@ -14,6 +14,7 @@
 main {
   display: flex;
 }
+
 #evaluation-form {
   display: flex;
   width: 675px;
@@ -23,4 +24,30 @@ main {
   height: 500px;  
   display: flex;
   justify-content: flex-end;
+}
+
+#subtitulo {
+  display: flex;
+}
+
+#family-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+#checkbox-container {
+  flex-direction: column;
+  margin-top: 15px;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+#container {
+  display: flex;
+}
+
+#inputs-container {
+  padding: 10px;
 }
