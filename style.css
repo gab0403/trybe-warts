@@ -6,13 +6,13 @@
 }
 
 #trybewarts-header-title {
-  margin: 0px;
+  margin: auto;
 }
 
 .trybewarts-login {
   display: flex;
   height: 40px;
-}  
+}
 
 main {
   display: flex;
