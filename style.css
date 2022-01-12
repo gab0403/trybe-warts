@@ -12,6 +12,7 @@
 .trybewarts-login {
   display: flex;
   height: 40px;
+  align-items: center;
 }
 
 main {
