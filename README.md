@@ -557,8 +557,7 @@ Você também pode assistir a [este](https://vimeo.com/539240375/a116a166b9) ví
 
 ### 20. Crie um contador com o ID `counter` contendo o número de caracteres disponíveis no textarea, variando de 500 até 0, que deverá ser atualizado a medida que algo for digitado na textarea
 
-#### Observações técnicas:
-
+#### Observações técnicas
 * O contador deverá possuir o ID `counter`
 * O contador inicialmente deve possuir o valor `500`
 * O contador deverá decrementar a medida que algo for escrito no campo `textarea`
