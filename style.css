@@ -29,6 +29,8 @@ main {
   height: 500px;
   display: flex;
   justify-content: flex-end;
+  border: black solid 2px;
+  margin-left: 200px;
 }
 
 #subtitulo {
@@ -56,3 +58,5 @@ main {
 #inputs-container {
   padding: 10px;
 }
+
+
